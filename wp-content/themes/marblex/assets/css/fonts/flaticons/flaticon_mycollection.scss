@@ -1,0 +1,121 @@
+$flaticon_mycollection-font: "flaticon_mycollection";
+
+@font-face {
+    font-family: $flaticon_mycollection-font;
+    src: url("./flaticon_mycollection.ttf?35b7c55005a74d508018458f76cae84c") format("truetype"),
+url("./flaticon_mycollection.woff?35b7c55005a74d508018458f76cae84c") format("woff"),
+url("./flaticon_mycollection.woff2?35b7c55005a74d508018458f76cae84c") format("woff2"),
+url("./flaticon_mycollection.eot?35b7c55005a74d508018458f76cae84c#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.svg?35b7c55005a74d508018458f76cae84c#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_mycollection-map: (
+    "bathroom": "\f101",
+    "blueprint": "\f102",
+    "bridge-saw": "\f103",
+    "chisel": "\f104",
+    "construction": "\f105",
+    "dining-table": "\f106",
+    "floor": "\f107",
+    "hammer": "\f108",
+    "living-room": "\f109",
+    "marbles": "\f10a",
+    "modern-art": "\f10b",
+    "panels": "\f10c",
+    "stone": "\f10d",
+    "stones": "\f10e",
+    "suckers": "\f10f",
+    "tile-1": "\f110",
+    "tile-2": "\f111",
+    "tile": "\f112",
+    "tiles-1": "\f113",
+    "tiles-2": "\f114",
+    "tiles-3": "\f115",
+    "tiles": "\f116",
+    "trowel": "\f117",
+    "wood": "\f118",
+);
+
+.flaticon-bathroom:before {
+    content: map-get($flaticon_mycollection-map, "bathroom");
+}
+.flaticon-blueprint:before {
+    content: map-get($flaticon_mycollection-map, "blueprint");
+}
+.flaticon-bridge-saw:before {
+    content: map-get($flaticon_mycollection-map, "bridge-saw");
+}
+.flaticon-chisel:before {
+    content: map-get($flaticon_mycollection-map, "chisel");
+}
+.flaticon-construction:before {
+    content: map-get($flaticon_mycollection-map, "construction");
+}
+.flaticon-dining-table:before {
+    content: map-get($flaticon_mycollection-map, "dining-table");
+}
+.flaticon-floor:before {
+    content: map-get($flaticon_mycollection-map, "floor");
+}
+.flaticon-hammer:before {
+    content: map-get($flaticon_mycollection-map, "hammer");
+}
+.flaticon-living-room:before {
+    content: map-get($flaticon_mycollection-map, "living-room");
+}
+.flaticon-marbles:before {
+    content: map-get($flaticon_mycollection-map, "marbles");
+}
+.flaticon-modern-art:before {
+    content: map-get($flaticon_mycollection-map, "modern-art");
+}
+.flaticon-panels:before {
+    content: map-get($flaticon_mycollection-map, "panels");
+}
+.flaticon-stone:before {
+    content: map-get($flaticon_mycollection-map, "stone");
+}
+.flaticon-stones:before {
+    content: map-get($flaticon_mycollection-map, "stones");
+}
+.flaticon-suckers:before {
+    content: map-get($flaticon_mycollection-map, "suckers");
+}
+.flaticon-tile-1:before {
+    content: map-get($flaticon_mycollection-map, "tile-1");
+}
+.flaticon-tile-2:before {
+    content: map-get($flaticon_mycollection-map, "tile-2");
+}
+.flaticon-tile:before {
+    content: map-get($flaticon_mycollection-map, "tile");
+}
+.flaticon-tiles-1:before {
+    content: map-get($flaticon_mycollection-map, "tiles-1");
+}
+.flaticon-tiles-2:before {
+    content: map-get($flaticon_mycollection-map, "tiles-2");
+}
+.flaticon-tiles-3:before {
+    content: map-get($flaticon_mycollection-map, "tiles-3");
+}
+.flaticon-tiles:before {
+    content: map-get($flaticon_mycollection-map, "tiles");
+}
+.flaticon-trowel:before {
+    content: map-get($flaticon_mycollection-map, "trowel");
+}
+.flaticon-wood:before {
+    content: map-get($flaticon_mycollection-map, "wood");
+}

@@ -1,0 +1,1112 @@
+# Copyright (C) 2023 Peacefulqode
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: marblex 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/marblex\n"
+"POT-Creation-Date: 2023-04-06 11:46:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:38
+msgid "404"
+msgstr ""
+
+#: 404.php:47
+msgid "Back to Home"
+msgstr ""
+
+#: admin/classes/helper.php:138
+msgid "Error! The liecence is not active"
+msgstr ""
+
+#: admin/classes/import/demo-import.php:17
+#: admin/classes/import/demo-import.php:33
+#: admin/classes/import/demo-import.php:49
+#: admin/classes/import/demo-import.php:65
+#: admin/classes/import/demo-import.php:81
+#: admin/classes/import/demo-import.php:97
+msgid "After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: admin/classes/panel.php:58
+msgid "Acticate"
+msgstr ""
+
+#: admin/classes/panel.php:59
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2735
+#: admin/dashboard/tpl-activate.php:60
+msgid "Activate"
+msgstr ""
+
+#: admin/classes/panel.php:68 admin/classes/panel.php:69
+msgid "Welcome"
+msgstr ""
+
+#: admin/classes/panel.php:76 admin/classes/panel.php:77
+msgid "Activate Theme"
+msgstr ""
+
+#: admin/classes/panel.php:84 admin/classes/panel.php:85
+msgid "Requirements"
+msgstr ""
+
+#: admin/classes/panel.php:94 admin/classes/panel.php:95
+msgid "Theme Plugins"
+msgstr ""
+
+#: admin/classes/panel.php:103 admin/classes/panel.php:104
+msgid "Help Center"
+msgstr ""
+
+#: admin/classes/styles.php:62 admin/classes/verify.php:112
+msgid "Thank you, your license has been validated"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: admin/classes/styles.php:122
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/classes/styles.php:123
+msgctxt "Plus+Jakarta+Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:258
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:259
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:261
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:263
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:264
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:301
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:306
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:311
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:316
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:317
+#: admin/classes/tgm/class-tgm-plugin-activation.php:836
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2542
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3589
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:318
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3168
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:319
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2961
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:321
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:323
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:325
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:326
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:327
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:328
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:531
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:943
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:943
+#: admin/classes/tgm/class-tgm-plugin-activation.php:946
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:946
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:1130
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2957
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:1991
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2282
+msgid "Required"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2285
+msgid "Recommended"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2301
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2304
+msgid "External Source"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2307
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2324
+msgid "Not Installed"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2328
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2330
+msgid "Active"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2336
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2339
+msgid "Requires Update"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2342
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2351
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2397
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2401
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2405
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2409
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2491
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2499
+msgid "Installed version:"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2507
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2519
+msgid "Available version:"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2542
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2556
+msgid "Plugin"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2557
+msgid "Source"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2558
+msgid "Type"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2562
+#: admin/dashboard/tpl-status.php:268
+msgid "Version"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2563
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2612
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2617
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2623
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2693
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2726
+msgid "Install"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2732
+msgid "Update"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2766
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2768
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2809
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2811
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2917
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:2943
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3167
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3507
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3510
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3512
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3516
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3518
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3518
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3526
+msgid "Show Details"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3518
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3526
+msgid "Hide Details"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3519
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3521
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3524
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3526
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3527
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/classes/tgm/class-tgm-plugin-activation.php:3529
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:8
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:14
+msgid "Elementor"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:20
+msgid "JetSticky For Elementor"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:26
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:32
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:38
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:44
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:50
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:57
+msgid "marblex core"
+msgstr ""
+
+#: admin/classes/tgm/required_plugin.php:64
+msgid "Slider Revolution"
+msgstr ""
+
+#: admin/classes/verify.php:65
+msgid "Please enter a valid field"
+msgstr ""
+
+#: admin/classes/verify.php:75
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/classes/verify.php:82
+msgid "Purchase code is empty "
+msgstr ""
+
+#: admin/classes/verify.php:90
+msgid "Purchase code is Not Valid"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:26
+msgid "Activate your Licence"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:29
+msgid "Welcome and thank you for Choosing %s Theme!"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:31
+msgid "The %s theme needs to be activated to enable all features, import demo and Support."
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:37
+msgid "How to find purchase code?"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:41 admin/dashboard/tpl-activate.php:42
+msgid "E-mail address"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:46 admin/dashboard/tpl-activate.php:47
+msgid "Enter Your Purchase Code"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:77
+msgid "Your theme's license is activated successfully."
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:90
+msgid "Deactivate"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:103
+msgid "Important Note:"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:106
+msgid "The purchase code is valid only for two domains. One for devlopment and other for production."
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:108
+msgid "If you want to use purchase code on third domain then you have to deactivate one domain."
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:113
+msgid "If you want to buy more license then follow the link:"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:125 admin/dashboard/tpl-plugins.php:55
+#: admin/dashboard/tpl-status.php:310
+msgid "Prev Step"
+msgstr ""
+
+#: admin/dashboard/tpl-activate.php:128 admin/dashboard/tpl-plugins.php:58
+#: admin/dashboard/tpl-status.php:313 admin/dashboard/tpl-weclome.php:75
+msgid "Next Step"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:30
+msgid "Need Help?"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:35
+msgid "Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/item_support_policy\">Support Policy</a> before submitting a ticket and make sure that your question related to our product issues."
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:39
+msgid "If You Did Not Find An Answer To Your Question, Feel Free To Contact Us."
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:64
+msgid "Please Read The Documentation. All Functionality Will Mention Here To Resolve Your Issues."
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:74
+msgid "Visit Documentation"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:97
+msgid "Support Mail"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:104
+msgid "If Your Query Is Not Solved Then Submit A Ticket With A Good Description Of Your Issue."
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:113
+msgid "Create a ticket"
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:138
+msgid "Theme Customization "
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:145
+msgid "If You Want To Customization Theme Core Function. Submit The Request Here With All Details."
+msgstr ""
+
+#: admin/dashboard/tpl-helper.php:154
+msgid "Create a Request"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:72
+msgid "Server Info"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:88
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:103
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:115 admin/dashboard/tpl-status.php:142
+msgid " How you can change this"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:124
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:136
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:158
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:169
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:175 admin/dashboard/tpl-status.php:207
+msgid " How you can change this."
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:191
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:202
+msgid ". We recommend minimum value: %d. Max input vars limitation will truncate POST data such as menus."
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:222
+msgid "MySql Version"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:226
+msgid "Max upload size"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:236
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:241 admin/dashboard/tpl-status.php:288
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:262
+msgid "WordPress Info"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:272
+msgid "Memory Limit"
+msgstr ""
+
+#: admin/dashboard/tpl-status.php:283
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:32
+msgid "Welcome to the setup for"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:39
+msgid "It looks like you may have recently upgraded to this theme. Great! This setup  will help ensure all the default settings are correct. It will also show some information about your new website and support options"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:45
+msgid "Step 1"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:47
+msgid "Activate your license."
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:50
+msgid "Important:"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:52
+msgid "one license  only for one website"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:57
+msgid "Step 2"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:67
+msgid "Step 3"
+msgstr ""
+
+#: admin/dashboard/tpl-weclome.php:69
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: comments.php:37 template-parts/post/content-audio.php:61
+#: template-parts/post/content-excerpt.php:51
+#: template-parts/post/content-gallery.php:51
+#: template-parts/post/content-image.php:52
+#: template-parts/post/content-video.php:63 template-parts/post/content.php:56
+msgid "Comment"
+msgstr ""
+
+#: comments.php:50
+msgid "Previous"
+msgstr ""
+
+#: comments.php:51
+msgid "Next"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:66
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:68
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: comments.php:73
+msgid "Enter Your Comment"
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:72
+msgid "marblex requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer/theme-functions.php:15 inc/customizer/theme-functions.php:43
+msgid "loading"
+msgstr ""
+
+#: inc/customizer/theme-functions.php:63 inc/customizer/theme-functions.php:78
+#: inc/customizer/theme-functions.php:110
+msgid "marblex"
+msgstr ""
+
+#: inc/theme-helper.php:44 inc/theme-helper.php:84
+msgid "Home"
+msgstr ""
+
+#: inc/theme-helper.php:56
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/theme-helper.php:59
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/theme-helper.php:62
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/theme-helper.php:66
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/theme-helper.php:73
+msgid "Search Results for %s"
+msgstr ""
+
+#: inc/theme-helper.php:76
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/theme-helper.php:100
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-helper.php:104
+msgid "Archive by category : "
+msgstr ""
+
+#: inc/theme-helper.php:107
+msgid "Search results for : "
+msgstr ""
+
+#: inc/theme-helper.php:162
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/theme-helper.php:167
+msgid "Articles posted by : "
+msgstr ""
+
+#: inc/theme-helper.php:170
+msgid "Error 404"
+msgstr ""
+
+#: inc/theme-helper.php:175
+msgid "Page"
+msgstr ""
+
+#: inc/theme-helper.php:183
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/theme-helper.php:186
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/theme-helper.php:238
+msgid "Previous page"
+msgstr ""
+
+#: inc/theme-helper.php:239
+msgid "Next page"
+msgstr ""
+
+#: inc/theme-helper.php:251
+msgid "%s"
+msgstr ""
+
+#: inc/theme-helper.php:273
+msgid "Pingback:"
+msgstr ""
+
+#: inc/theme-helper.php:273
+msgid "(Edit)"
+msgstr ""
+
+#: inc/theme-helper.php:292
+msgid "Edit"
+msgstr ""
+
+#: inc/theme-helper.php:295
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/theme-setup.php:64
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-setup.php:65
+msgid "Social Links Menu"
+msgstr ""
+
+#: inc/theme-setup.php:66
+msgid "Sidebar Menu"
+msgstr ""
+
+#: inc/theme-setup.php:71
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-setup.php:73
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: inc/theme-setup.php:80
+msgid "Footer  1"
+msgstr ""
+
+#: inc/theme-setup.php:89
+msgid "Footer  2"
+msgstr ""
+
+#: inc/theme-setup.php:98
+msgid "Footer  3"
+msgstr ""
+
+#: inc/theme-setup.php:107
+msgid "Footer  4"
+msgstr ""
+
+#: inc/theme-setup.php:116
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/theme-setup.php:125
+msgid "Filter Above Product"
+msgstr ""
+
+#: inc/theme-setup.php:134
+msgid "Header sidebar"
+msgstr ""
+
+#: inc/theme-setup.php:156
+msgid "* Enter Name"
+msgstr ""
+
+#: inc/theme-setup.php:158
+msgid "* Enter Email"
+msgstr ""
+
+#: inc/theme-setup.php:160
+msgid "Enter Url"
+msgstr ""
+
+#: inc/theme-setup.php:243
+msgid ", "
+msgstr ""
+
+#: inc/theme-setup.php:251
+msgid "Tags"
+msgstr ""
+
+#: searchform.php:13 template-parts/header/module/header-search.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14 template-parts/header/module/header-search.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:16 template-parts/header/module/header-search.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/footer/footer-subscribe.php:29
+msgid "marblex-footer-logo"
+msgstr ""
+
+#: template-parts/footer/site-info.php:27
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/header/header-style-four.php:31
+#: template-parts/header/header-style-one.php:31
+#: template-parts/header/header-style-two.php:30
+msgid "marblex-sidebar-logo"
+msgstr ""
+
+#: template-parts/page/content-page.php:23
+#: template-parts/post/content-audio.php:88
+#: template-parts/post/content-excerpt.php:105
+#: template-parts/post/content-gallery.php:86
+#: template-parts/post/content-image.php:82
+#: template-parts/post/content-video.php:90 template-parts/post/content.php:88
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-audio.php:65
+#: template-parts/post/content-excerpt.php:55
+#: template-parts/post/content-gallery.php:55
+#: template-parts/post/content-image.php:56
+#: template-parts/post/content-video.php:67 template-parts/post/content.php:60
+msgid "Comments"
+msgstr ""
+
+#: template-parts/post/content-none.php:6
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:47
+msgid "Featured"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+
+#: woocommerce/single-product-reviews.php:33
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s is product title
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s is product title
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Email"
+msgstr ""
+
+#. translators: %s opening and closing link tags respectively
+
+#: woocommerce/single-product-reviews.php:119
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:137
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:140
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "marblex"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://marblex.peacefulqode.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "marblex is a clean and powerful WordPress theme for building a marble business. It is great, professional, and easy to use. You can use it for, businesses, Photo studios, Portfolio themes, Creative agencies, etc. marblex includes plenty of customization options and let you change its visual style without touching to single line of codes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Peacefulqode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://peacefulqode.com/"
+msgstr ""

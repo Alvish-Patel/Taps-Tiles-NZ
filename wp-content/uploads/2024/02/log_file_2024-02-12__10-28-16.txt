@@ -1,0 +1,118 @@
+
+---Downloaded files---
+The import files for: Home 5 were successfully downloaded!
+Initial max execution time = 9000000000000000000000
+Files info:
+Site URL = http://localhost/marble
+Data file = D:\xampp\htdocs\Marble/wp-content/themes/marblex/admin//classes/import/demos/demo-1/xml.xml
+Widget file = D:\xampp\htdocs\Marble/wp-content/themes/marblex/admin//classes/import/demos/demo-1/wie.wie
+Customizer file = D:\xampp\htdocs\Marble/wp-content/themes/marblex/admin//classes/import/demos/demo-1/dat.dat
+Redux files:
+pqf_options -> D:\xampp\htdocs\Marble/wp-content/themes/marblex/admin//classes/import/demos/demo-1/json.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Meta - Meta - Imported
+Block - No Title - Imported
+
+Footer  1 : 
+
+Footer Logo - About Us - Imported
+
+Footer  2 : 
+
+Navigation Menu - our navigate - Imported
+
+Footer  3 : 
+
+Navigation Menu - our product - Imported
+
+Footer  4 : 
+
+marblex Contact - Our showroom - Imported
+
+Service Sidebar : 
+
+Navigation Menu - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Header sidebar : 
+
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pqf_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
